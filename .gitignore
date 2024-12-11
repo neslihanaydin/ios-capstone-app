@@ -1,0 +1,72 @@
+# User-specific files
+*.swp
+*.swo
+*.DS_Store
+*.swp
+*.swo
+
+# Xcode
+DerivedData/
+build/
+*.xcuserdatad/
+*.xcscmblueprint
+
+# CocoaPods
+Pods/
+podspec.lock
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Swift Package Manager
+/.build/
+Package.resolved
+.swiftpm/xcode/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+*.lock
+
+# Archives
+*.xcarchive
+
+# Provisioning Profiles
+*.mobileprovision
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Files that might appear in local cloud directories
+*.icloud
+
+# Core Data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
